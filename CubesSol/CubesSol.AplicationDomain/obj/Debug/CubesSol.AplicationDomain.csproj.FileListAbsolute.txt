@@ -1,0 +1,7 @@
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\bin\Debug\CubesSol.AplicationDomain.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\bin\Debug\CubesSol.AplicationDomain.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\bin\Debug\CubesSol.ObjectDomain.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\bin\Debug\CubesSol.ObjectDomain.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\obj\Debug\CubesSol.AplicationDomain.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\obj\Debug\CubesSol.AplicationDomain.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.AplicationDomain\obj\Debug\CubesSol.AplicationDomain.pdb

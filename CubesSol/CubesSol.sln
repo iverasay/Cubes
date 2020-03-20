@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubesSol.WebApi.Tests", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubesSol.ObjectDomain", "CubesSol.ObjectDomain\CubesSol.ObjectDomain.csproj", "{F4879466-3356-4795-855E-315EF4591A61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubesSol.AplicationDomain", "CubesSol.AplicationDomain\CubesSol.AplicationDomain.csproj", "{1E9C7165-1F17-4A2F-8BA3-C86771A2AABA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F4879466-3356-4795-855E-315EF4591A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4879466-3356-4795-855E-315EF4591A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4879466-3356-4795-855E-315EF4591A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E9C7165-1F17-4A2F-8BA3-C86771A2AABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9C7165-1F17-4A2F-8BA3-C86771A2AABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9C7165-1F17-4A2F-8BA3-C86771A2AABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9C7165-1F17-4A2F-8BA3-C86771A2AABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

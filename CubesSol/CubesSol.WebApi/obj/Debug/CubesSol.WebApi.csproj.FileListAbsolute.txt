@@ -54,6 +54,5 @@ C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\bi
 C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\bin\System.Web.WebPages.Razor.xml
 C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\bin\Antlr3.Runtime.pdb
-C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\obj\Debug\CubesSol.WebApi.csprojResolveAssemblyReference.cache
 C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\obj\Debug\CubesSol.WebApi.dll
 C:\Users\Nacho\Documents\GitHub\BranchIverasay\Cubes\CubesSol\CubesSol.WebApi\obj\Debug\CubesSol.WebApi.pdb
