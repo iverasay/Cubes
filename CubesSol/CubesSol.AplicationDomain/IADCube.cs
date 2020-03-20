@@ -10,5 +10,6 @@ namespace CubesSol.AplicationDomain
     public interface IADCube
     {
         bool thereIsIntersection(cube pCube1, cube pCube2);
+        int IntersectionVolume(cube pCube1, cube pCube2);
     }
 }
